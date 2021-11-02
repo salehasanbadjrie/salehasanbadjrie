@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @salehasanbadjrie
-- 👀 I’m interested in programming (of course);
-- 🌱 I’m currently learning Java, Python, and Golang.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hai, My name is Saleh Hasan Badjrie.
 
-<!---
-salehasanbadjrie/salehasanbadjrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In this time, i want to show my project when i was at 6th semester making an app called RentalMobil. it is basically an application to order some mechanic if the consument have a problem with their car or motorcycle. it's app not 100% work perfectly, just 60% because it's still so much bug and button didn't have a function. But i got experience building this app to learning more to new people about their app and want to continue this app to run perfectly. Thank you
