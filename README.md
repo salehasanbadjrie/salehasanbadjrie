@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @salehasanbadjrie
-- 👀 I’m interested in programming (of course);
-- 🌱 I’m currently learning Java, Python, and Golang.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hai, My name is Saleh Hasan Badjrie.
 
-<!---
-salehasanbadjrie/salehasanbadjrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In this time, i want to show my project when i was at 6th semester making an app called RentalMobil. it is basically an application to order if your car or motorcycle broke down in the street and also this app can find you car wash near your place or area you are into right now. it's app not 100% work perfectly in Adobe XD, just 60% because it's still so much bug and button didn't have a function. RentalMobil actually I made it first with Adobe XD to create plot to one layer to another layer. It is still base on Adobe XD and just take 20% in order to make to become actually Android Application.
+
+
